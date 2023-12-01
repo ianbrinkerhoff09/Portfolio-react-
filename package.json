@@ -3,8 +3,8 @@
     "homepage": ".",
     "version": "0.1.0",
     "engines": {
-        "npm": "v21.2.0",
-        "node": "v21.2.0"
+        "npm": "v21.x",
+        "node": "v21.x"
     },
     "private": true,
     "dependencies": {
